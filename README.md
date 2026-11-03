@@ -3,7 +3,7 @@
 
 ## Prerequisites
 Make sure you have installed:
-* [Node.js](https://nodejs.org/) (v18 or newer).
+* [Node.js](https://nodejs.org/en/download) (v18 or newer).
 
 ---
 
