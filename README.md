@@ -8,7 +8,7 @@ Make sure you have installed:
 ---
 
 2. **Configure Token:**
-   * Create or open `config.json`.
+   * open `config.json`.
    * Paste your Discord Bot Token inside it like this:
      ```json
      {
